@@ -1,4 +1,4 @@
-# 🛡️ PhishGuard AI — Phishing Website Detection System
+# 🛡️ PhishGuard AI - Phishing Website Detection System
 
 ## 📌 Project Overview
 
